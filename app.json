@@ -1,0 +1,31 @@
+{
+  "id": "/lv-cs/?app=lc",
+  "name": "Levantamento — Comércio",
+  "short_name": "Comércio",
+  "description": "Levantamento de campo",
+  "start_url": "./index.html?app=lc",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": [
+    "fullscreen",
+    "standalone",
+    "minimal-ui"
+  ],
+  "orientation": "portrait",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxOTIiIGhlaWdodD0iMTkyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIHJ4PSI0MiIgZmlsbD0iIzBmMGYwZiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRGQzNGNyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik00NiA2OGgxMDBsLTkgODhINTV6Ii8+PHBhdGggZD0iTTc0IDY4VjU0YTIyIDIyIDAgMCAxIDQ0IDB2MTQiLz48L2c+PHBhdGggZD0iTTEwNCA4NCA4NCAxMThoMTRsLTYgMjYgMjItMzZIOTlsNS0yNHoiIGZpbGw9IiNGRkMxMDciLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MTIiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgMTkyIDE5MiI+PHJlY3Qgd2lkdGg9IjE5MiIgaGVpZ2h0PSIxOTIiIHJ4PSI0MiIgZmlsbD0iIzBmMGYwZiIvPjxnIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzRGQzNGNyIgc3Ryb2tlLXdpZHRoPSI5IiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2UtbGluZWNhcD0icm91bmQiPjxwYXRoIGQ9Ik00NiA2OGgxMDBsLTkgODhINTV6Ii8+PHBhdGggZD0iTTc0IDY4VjU0YTIyIDIyIDAgMCAxIDQ0IDB2MTQiLz48L2c+PHBhdGggZD0iTTEwNCA4NCA4NCAxMThoMTRsLTYgMjYgMjItMzZIOTlsNS0yNHoiIGZpbGw9IiNGRkMxMDciLz48L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
